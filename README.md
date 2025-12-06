@@ -61,8 +61,6 @@ Time management
 
 ## ✨ Skills Demonstrating Real Experience
 
-Connecting web apps to Supabase
-
 Handling common JavaScript runtime and API errors
 
 Building academic projects in C++ and Python
